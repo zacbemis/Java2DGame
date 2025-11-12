@@ -29,12 +29,5 @@ Controls (example)
 - Space — action / jump
 (See source for exact key mappings.)
 
-Contributing
-- Feel free to open issues or PRs for bug fixes, improvements, or new features.
-- Keep changes small and include a short description of intent.
-
-License
-- No license specified. Add a LICENSE file (for example MIT, Apache-2.0) to make usage and contributions clear.
-
 Notes
 - For exact build/run commands and the main class name, open the source and locate the class with public static void main.
