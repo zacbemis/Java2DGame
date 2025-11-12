@@ -1,5 +1,0 @@
-string1*Diamond-Man: 'Haha you cannot defeat my diamond shtyle'
-string2*Diamond-Man: 'Let's see your shtyle'
-string3*Diamond-Man: 'Haha my shtyle counters your shtyle'
-string4*Diamond-Man: 'PSHHHH PSSHHHHH PEW PEW'
-string5*Diamond-Man: 'Witness the power of my impervious diamond shtyle'

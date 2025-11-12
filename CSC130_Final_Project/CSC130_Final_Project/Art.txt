@@ -1,6 +1,0 @@
-Art/f.png*f0
-Art/DiamondMan.png*f1
-Art/DiamondMan1.png*f2
-Art/DiamondMan2.png*f3
-Art/DiamondMan3.png*f4
-Art/DiamondMan4.png*f5
