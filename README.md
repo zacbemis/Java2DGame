@@ -5,6 +5,8 @@ A 2D top-down adventure game developed in Java as a CSC130 Final Project. This p
 ## Project Overview
 
 Diamond Man Escape is an escape room-style game where the player must navigate a confined space, interact with objects, and solve puzzles to escape. The project showcases object-oriented programming principles, real-time game loop architecture, and modular system design.
+<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/f8afbe06-6de5-47c7-8018-dcb2129024ad" />
+
 
 ## Technologies Used
 
